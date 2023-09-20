@@ -81,6 +81,8 @@ You can use the following markdown format to create tables:
 ```
 Github extends the functionality of markdown tables to provide more alignment and table cell formating options. [<sup>[2]</sup>](#references)
 
+[Secret Window Hiden Garden](secret-window/hidden-garden.md)
+
 
 ## References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) 
